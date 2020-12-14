@@ -1,1 +1,1 @@
-
+# React GIF Maker Application
