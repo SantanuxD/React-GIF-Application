@@ -5,6 +5,11 @@ A beginner friendly React application that generates random GIFs on clicking a b
 ## API Source 💬
 <a href="https://developers.giphy.com/"><i>https://developers.giphy.com/</i></a>
 
+## Demo
+
+<img width="960" alt="Demo" src="https://user-images.githubusercontent.com/64271130/102170849-4d341f00-3ebb-11eb-98eb-138cd1d79d3e.png">
+
+
 ## 📲 Connect with me on social media 
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/santanu-biswas-1482591a7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
